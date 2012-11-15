@@ -16,7 +16,7 @@ assume it has the same compatability as jQuery 1.3).
 Include the following script at the bottom of your web page
 
 
-    <script type="text/javascript" src="async.min.js"></script>
+    <script type="text/javascript" src="async.js"></script>
     <script type="text/javascript">
 
       // This is where you initialize what you want to load
