@@ -1,8 +1,10 @@
-#aSync
+**THIS REPO IS NO LONGER MAINTAINED AND HAS NOT BEEN FOR YEARS, PROCEED WITH CAUTION**
+
+# aSync
 
 aSync is a simple asyncronous javascript loadeer.
 
-##Compatability
+## Compatability
  * IE 6+
  * Firefox
  * Chrome
@@ -11,7 +13,7 @@ aSync is a simple asyncronous javascript loadeer.
 (Firefox, Chrome and Safari versions are untested.  Some functionality was based off of jQuery's AJAX calls, so
 assume it has the same compatability as jQuery 1.3).
 
-##How to use
+## How to use
 
 Include the following script at the bottom of your web page
 
